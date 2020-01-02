@@ -1,0 +1,18 @@
+Bitcoin Royal (BTCR)
+
+Modular Id
+
+"LABEL_TOKEN=BITCOIN ROYAL"
+"SYMBOL=BTCR"
+"BLOCK_TIME=12minute"
+"BLOCK_REWARD=100"
+"VALUE_BLOCK=6,25BTC"
+"VALUE_REWARD=625BTC"
+"SUBSIDY="INFINITY""
+"ALGORITHM=SHA256"
+"PERS=PoW/PoS|RPoW"
+"VALUE_BTCR(IN BTC)=0,125BTCR/1BTC"
+"CODE_SOURCE=BITCOIN_CORE"
+"DIFF_RETARGETING_AFTER_X_BLOCK="AUTO""
+
+Create by Marc-Andre Robert, project is in comming soon to open source in github(The master super king)) !!!
